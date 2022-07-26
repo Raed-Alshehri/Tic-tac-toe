@@ -3,11 +3,10 @@
 
 This project is an implementation of Minimax algorithm for an AI to play Tic-Tac-Toe optimally.
 
-To play the game, download the following two files
-- tictactoe.py: contains all the logic for playing the game and  making optimal moves
-- runner.py: to run the graphical interface for the game
+To play the game, download and run the following two files
+- [tictactoe.py](https://github.com/Raed-Alshehri/Tic-tac-toe/blob/main/tictactoe.py): contains all the logic for playing the game and  making optimal moves
+- [runner.py](https://github.com/Raed-Alshehri/Tic-tac-toe/blob/main/runner.py): to run the graphical interface for the game
 
-Then, download and run the [file](https://github.com/Raed-Alshehri/Tic-tac-toe/blob/main/runner.py)
 ## Screenshot
 
 
@@ -76,5 +75,4 @@ If you have any feedback, please reach out to me at alshehri.raeda@gmail.com
 ## Credits
 
 [Harvard cs50](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
-
 
