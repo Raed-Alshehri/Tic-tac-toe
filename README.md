@@ -14,6 +14,10 @@ To play the game, download and run the following two files
 
 ![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/Tic-tac-toe/main/Img/image1.png)
 
+## Demo
+
+![App Screenshot](https://github.com/Raed-Alshehri/Tic-tac-toe/blob/main/Img/ezgif-4-337a8b1781.gif)
+
 ## Functions and Description:
 
 ```
